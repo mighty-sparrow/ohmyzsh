@@ -1,0 +1,13 @@
+# custom files
+custom/
+
+# temp files directories
+cache/
+log/
+*.swp
+.DS_Store
+.zsh_history
+
+# editor configs
+.vscode
+.idea
